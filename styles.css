@@ -1,3 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    background: #ac0505;
+}
+
+.links {
+    text-decoration: none;
+}
+
+.header-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+.header-icon {
+    color: #fff;
+    font-size: 2em;
+    cursor: pointer;
+}
+
 footer {
     width: 100%;
     margin: 0 auto;
@@ -34,12 +64,12 @@ footer {
     justify-content: space-evenly;
 }
 
-.links {
+.footer-links {
     text-decoration:  none;
     transition: all 0.3s ease;
 } 
 
-.links:hover{
+.footer-links:hover{
     transform: scale(1.1);
 }
 
