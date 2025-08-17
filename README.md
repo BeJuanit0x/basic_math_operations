@@ -2,7 +2,7 @@
 
 App in development to solve basic operations (Just for practice).
 
-<hr>
+<br>
 
 ## Languages 
 <p align="left"> 
@@ -17,5 +17,8 @@ App in development to solve basic operations (Just for practice).
   </a>
 </p>
 
+<br>
+
 ## Sketch
 [Figma](https://www.figma.com/design/NRXs6juqVso1K3dK6t8q7G/basic_math_operations?node-id=0-1&t=Z8DHD9FhxK3jpQHl-1)
+
